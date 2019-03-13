@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_shop">Shop</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_me">Me</string>
+    <string name="pid_number">product detail url: %s</string>
+    <string name="cid_number">product list url: %s</string>
+</resources>
